@@ -6,4 +6,6 @@ A script that takes in the speed file pulled from the RITIS PDA API, and the TMC
 
 All performance metrics were calculated in 21.3 seconds for an entire month aggregated at 15 minute intervals.
 
+To pull the formatted VHD table, follow the instructions below and provide a filename. That file will then be saved in the O: drive.
+
 ![Alt text](https://github.com/twt6xy/DELAY/blob/main/delay2.PNG?raw=true)
